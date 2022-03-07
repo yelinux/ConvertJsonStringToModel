@@ -1,6 +1,6 @@
 # ConvertJsonStringToModel
 
-Mac端桌面程序，自动生成代码，json字符串转model源代码
+Mac端桌面程序，自动生成iOS代码，json字符串转model源代码
 
 ## Features
 ![步骤1](./preview/step1.png)
